@@ -45,7 +45,7 @@ strong {
     color: #1778cd; 
 }
 
-sub, sup {
+sub, {
     color: #f0ad4e; 
     font-weight: 700;
 }
@@ -84,4 +84,5 @@ ol {
     font-weight: 700;
     display: block; 
     margin-top: 10px;
+
 }
