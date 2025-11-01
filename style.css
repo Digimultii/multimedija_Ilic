@@ -1,0 +1,87 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #141414; 
+    margin: 0; 
+    background-image: url(animals-1454214_1280.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-color: #abc298;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 50vh;
+}
+
+.container {
+    width: 60%;
+    max-width: 600px; 
+    margin: 50px 20px; 
+    background-color: rgba(248, 249, 236, 0.95); 
+    text-align: center; 
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    font-weight: 900;
+    font-style: italic; 
+    color: #000000; 
+    margin: 38px 20px; 
+    text-align: center;
+}
+
+p {
+    margin: 15px 0; 
+    line-height: 1.6; 
+}
+
+p em {
+    color: #d9534f; 
+    font-style: normal; 
+}
+
+strong {
+    font-weight: 700; 
+    color: #1778cd; 
+}
+
+sub, sup {
+    color: #f0ad4e; 
+    font-weight: 700;
+}
+
+.naglasak {
+    color: #c0392b; 
+    font-weight: 700;
+}
+
+ul {
+    list-style: square;
+    list-style-position: inside; 
+    background-color: #bfe5ba; 
+    margin: 20px auto; 
+}
+
+ol {
+    list-style: lower-roman;
+    list-style-position: inside; 
+    background-color: #bfe5ba; 
+    margin: 20px auto; 
+}
+
+.izdvojeni-odjeljak {
+    display: block;
+    width: 90%;
+    max-width: 450px;
+    padding: 15px;
+    background-color: #e0b337; 
+    font-style: italic; 
+    margin: 20px auto; 
+}
+
+.kemikalija {
+    color: #408540; 
+    font-weight: 700;
+    display: block; 
+    margin-top: 10px;
+}
