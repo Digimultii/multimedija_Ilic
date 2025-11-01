@@ -58,14 +58,12 @@ sub, {
 ul {
     list-style: square;
     list-style-position: inside; 
-    background-color: #bfe5ba; 
     margin: 20px auto; 
 }
 
 ol {
     list-style: lower-roman;
     list-style-position: inside; 
-    background-color: #bfe5ba; 
     margin: 20px auto; 
 }
 
@@ -86,3 +84,4 @@ ol {
     margin-top: 10px;
 
 }
+
